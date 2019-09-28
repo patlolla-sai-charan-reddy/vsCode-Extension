@@ -2,8 +2,8 @@
 	"name": "pragmatic-programmer",
 	"displayName": "Pragmatic Programmer",
 	"description": "Pragmatic Programmer Tips",
-	"publisher": "Sai Charan Patlolla",
-	"version": "0.0.1",
+	"publisher": "scrpatlolla",
+	"version": "3.0.0",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
@@ -13,9 +13,7 @@
 		"url": "https://github.com/scrpatlolla"
 	},
 	"categories": [
-		"Software Engineering",
-		"Pragmatic Programmer",
-		"Best Practices"
+		"Other"
 	],
 	"repository": {
 		"url": "https://github.com/scrpatlolla/vsCode-Extension",
@@ -39,5 +37,10 @@
 		"mocha": "^6.1.4",
 		"typescript": "^3.3.1",
 		"vscode-test": "^1.2.0"
+	},
+	"__metadata": {
+		"id": "d357ea87-7314-433e-8e4f-77c376048ad2",
+		"publisherDisplayName": "Sai Charan Patlolla",
+		"publisherId": "059be1e5-fbe7-4249-8b06-412d4682fb2d"
 	}
 }
