@@ -17,7 +17,7 @@ exports.activate = activate;
 function deactivate() { }
 
 function onSaveMessages() {
-	vscode.window.showInformationMessage('Make sure it follows ETC and DRY')
+	vscode.window.showInformationMessage('is it ETC and following DRY')
 }
 
 module.exports = {
