@@ -16,15 +16,11 @@
 		"Programming Languages",
 		"Other"
 	],
-	"tags": [
-		"Pragmatic Programming",
-		"Best Practices"
-	],
 	"repository": {
 		"url": "https://github.com/scrpatlolla/vsCode-Extension",
 		"type": "git"
 	},
-	"icon": "icon.jpg",
+	"icon": "icon-p.jpg",
 	"activationEvents": [
 		"*"
 	],
