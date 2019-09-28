@@ -3,7 +3,7 @@
 	"displayName": "Pragmatic Programmer",
 	"description": "Pragmatic Programmer Tips",
 	"publisher": "scrpatlolla",
-	"version": "3.1.0",
+	"version": "3.2.0",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
